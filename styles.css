@@ -1,0 +1,135 @@
+.nav{
+    padding-right: 26%;
+}
+.navlist{
+    float: right;
+    list-style: none;
+    padding: 20px;
+    font-family:'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif
+}
+#uline{
+    text-decoration: none;
+    color:#0a0a0a
+}
+.logo{
+    padding-left: 30%;
+}
+.background-layer{
+  background-image: url(./images/background-layer.png);
+  height: 6.93in;
+}
+.txt{
+    color: rgb(223, 220, 220);
+    padding-top: 19%;
+    padding-right: 4%;
+    font-family:'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+.swipe{
+    color: white;
+    padding-right: 4%;
+    font-family:'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+}
+.about{
+    font-family:'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    color:#139139;
+    padding-right: 3%;
+    font-size: 20px;
+    padding-top: 3px;
+}
+#about{
+    color: #3b3b3b;
+    padding-top: 5px;
+    font-size:smaller;
+    font-family:'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+}
+.row{
+   height: 3.3in;
+   padding-right: 35px;
+}
+.missions{
+    font-family:'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    padding-bottom: 5%;
+}
+#missions{
+    color:#3b3b3b
+}
+.awards{
+    height: 2in;
+    padding-left: 3%;
+}
+.awd{
+    font-family:'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    padding-left: 7%;
+}
+#awd{
+   color: gray;
+   padding-left: 1%;
+   font-family:'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+   font-size: 13px;
+}
+.form {
+    padding-left: 3in;
+    padding-top: 3%;
+    float: left;
+    width: 32%;
+}
+.gin{
+    padding-top: 1%;
+    color: #139139;
+    font-family:'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+}
+.in{
+    color: grey;
+    float: right;
+    padding-right: 9%;
+    font-family:'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+}
+.loc{
+    height: 25px;
+    width: 25px;
+    opacity: 0.4;
+}
+.w{
+    padding-bottom: 2%;
+}
+#w{
+    padding-left: 3%;
+}
+.footer{
+    height: 70px;
+}
+.foot{
+    width: 100%;
+    background-color: #139139;
+}
+.play{
+    height: 20px;
+    border-radius: 50%;
+}
+.cr{
+    color: white;
+    padding-bottom: 43px;
+    padding-left: 13%;
+}
+.fb{
+    height: 32px;
+    padding-right: 5%;
+    padding-bottom: 12%;
+}
+.tw{
+    height: 24px;
+    padding-bottom: 13%;
+    padding-right: 4%;
+}
+.p{
+    padding-left: 10%;
+    padding-bottom: 20px;
+}
+.a{
+    height: 32px;
+   transform: rotate(180deg);
+}
+.aa{
+    padding-left: 6%;
+    padding-bottom: 3%;
+}
